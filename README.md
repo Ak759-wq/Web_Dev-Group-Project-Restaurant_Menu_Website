@@ -1,3 +1,23 @@
+# Delulu of Dreams - Restaurant Menu Website
+
+A simple, responsive restaurant website with a digital menu, special offers, and contact details. It uses only HTML and CSS, with no JavaScript.
+
+## Features
+
+- Home page with navigation bar
+- Menu with 6 categories: Starters, Main Courses, Chinese, Fast Food, Desserts, and Beverages
+- Category buttons that show one category at a time, with the active button highlighted
+- Food cards with image, name, description, and price
+- Veg, non-veg, and veg/non-veg labels on each dish
+- Special offers with original and discounted prices
+- About Us and Contact Us sections
+- Responsive layout for desktops, tablets, and mobile phones
+
+## Files
+restaurant-menu/
+├── index.html Page structure and content
+├── style.css Layout, colours, and responsive design
+└── README.md Project information
 ## How to Run
 
 1. Download or copy `index.html` and `style.css` into the same folder.
