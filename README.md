@@ -41,7 +41,3 @@ Each category button links to a section on the same page, such as `#starters`. C
 - Button highlighting requires a modern browser that supports `:has()`. In older browsers, all items still display.
 - Food images are hotlinked from other websites and may stop loading if those sites block them.
 - Sample prices, offers, and contact details are placeholders.
-
-## Credits
-
-Food images are from third-party websites. Replace them with your own images, or with images you have permission to use, before publishing.
